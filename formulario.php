@@ -1,6 +1,8 @@
 ﻿<?php 
 ?>
 
+//Formulario de Cadastro de Usuário
+
 <form method="post" action="cadastro.php">
 	<label>Nome Completo:</label></br>
 		<input type="text" required name="nome">  </input></br>
